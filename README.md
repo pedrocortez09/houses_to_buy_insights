@@ -88,9 +88,9 @@ with filters and a Buy Suggestion Map, as well as data insights.
 + Exploratory Data Analysis (EDA).
 
 # 5. Business Insights
-<p align="center" dir="auto">Proprerties with more bathrooms are more expensive on average</p>
+<p align="center" dir="auto">Properties with more bathrooms are more expensive on average</p>
 <div align="center">
-## <img src="https://user-images.githubusercontent.com/103151311/195824451-85303aba-cc9c-46a1-83ca-d3ff777503d5.png" width="600" />
+<img src="https://user-images.githubusercontent.com/103151311/195824451-85303aba-cc9c-46a1-83ca-d3ff777503d5.png" width="600" />
 </div>
 Usage: House Rocket could buy a house with few bathrooms and build bathrooms aiming to increase de profit
 <hr>
